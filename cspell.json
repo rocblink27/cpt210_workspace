@@ -1,0 +1,22 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [
+    "DDRAM",
+    "Freenove",
+    "dtoverlay",
+    "gpiochip",
+    "gpiod",
+    "libgpiod",
+    "nanosec",
+    "pulsewidth",
+    "pwmchip",
+    "sysfs"
+    "rodata",
+    "sysmem"
+    ],
+    "import": []
+}
